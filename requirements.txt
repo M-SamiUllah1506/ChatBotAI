@@ -1,0 +1,5 @@
+transformers
+torch==2.6.0
+gradio
+accelerate
+sentencepiece
